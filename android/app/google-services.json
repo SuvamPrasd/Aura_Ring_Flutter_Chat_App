@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "137851818954",
+    "firebase_url": "https://auraring-45453.firebaseio.com",
+    "project_id": "auraring-45453",
+    "storage_bucket": "auraring-45453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137851818954:android:561963499cb67579537533",
+        "android_client_info": {
+          "package_name": "com.example.aura_ring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137851818954-ptn6qnvjiodju1pvm0ne0a7dlnu3pcdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5OD9xgPmHt8eovIkNWYCtYQoXoLm6Zws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137851818954-ptn6qnvjiodju1pvm0ne0a7dlnu3pcdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
